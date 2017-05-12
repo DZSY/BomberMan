@@ -38,7 +38,7 @@
 
 程序的总体功能及流程：
 
-![FlowchartDiagram1](/Users/positif/Library/Mobile Documents/com~apple~CloudDocs/其他/1617秋冬/Java应用技术/homework/HW4-BomberMan/图/6.png)
+![FlowchartDiagram1](http://ww1.sinaimg.cn/large/006tNc79gy1ffimkp587kj30k60no75o.jpg)
 
 # 3. 详细设计
 
