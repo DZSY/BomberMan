@@ -1,5 +1,4 @@
 # BomberMan
-[TOC]
 
 # 1. 引言
 
